@@ -1,4 +1,6 @@
-[{
+{
+	"flightList":[
+	{
 		"id": 1,
 		"departure": "06:00 AM",
 		"arrival": "08:56 AM",
@@ -138,3 +140,4 @@
 		"address": "Miami International Airport"
 	}
 ]
+}
