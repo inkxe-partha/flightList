@@ -7,7 +7,7 @@
 			"aircraftThumbnail": "http://4hdwallpapers.com/wp-content/uploads/2014/12/World-War-II-art-drawing-fighter-aircraft-carrier-sea-sky_1600x900.jpg",
 			"seats": 10,
 			"price": 500,
-			"aircraftInfo": "Turbo Prop",
+			"aircraftInfo": "Turbo Prop, Fastest Sea Plane",
 			"orgCode": "MIA",
 			"desCode": "JFK",
 			"orgCity": "Miami",
@@ -17,7 +17,11 @@
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
 			"tax": 75,
-			"address": "Miami International Airport"
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		},
 		{
 			"id": 2,
@@ -27,7 +31,7 @@
 			"aircraftThumbnail": "https://dxhb0it26is40.cloudfront.net/productimages/carenado-500s-shrike-aero-commander-for-xplane_5_ss_l_161024153558.jpg",
 			"seats": 0,
 			"price": 500,
-			"aircraftInfo": "Turbo Prop",
+			"aircraftInfo": "Storm Fighter, super Fast Plane",
 			"orgCode": "MIA",
 			"desCode": "JFK",
 			"orgCity": "Miami",
@@ -37,14 +41,18 @@
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
 			"tax": 120,
-			"address": "Miami International Airport"
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Storm Fighter Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		},
 		{
 			"id": 3,
 			"departure": "11:30 AM",
 			"arrival": "2:00 PM",
 			"date": "2018-05-31",
-			"aircraftThumbnail": "https://static.rcgroups.net/forums/attachments/2/2/5/6/4/ai110260827-253-thumb-Mini%20Drak.jpghttp://img.aeroexpo.online/images_ar/photo-g/171523-10551742.jpg",
+			"aircraftThumbnail": "http://4hdwallpapers.com/wp-content/uploads/2014/12/World-War-II-art-drawing-fighter-aircraft-carrier-sea-sky_1600x900.jpg",
 			"seats": 5,
 			"price": 450,
 			"aircraftInfo": "Turbo Prop",
@@ -57,7 +65,11 @@
 			"depLat": 40.645477,
 			"depLon": -73.781187,
 			"tax": 110,
-			"address": "Miami International Airport"
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo Prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		},
 		{
 			"id": 4,
@@ -77,7 +89,11 @@
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
 			"tax": 120,
-			"address": "Miami International Airport"
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo Prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		},
 		{
 			"id": 5,
@@ -96,7 +112,13 @@
 			"desAirport": "John F. Kennedy International Airport",
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
-			"tax": 120
+			"tax": 120,
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo Prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
+			
 		},
 		{
 			"id": 6,
@@ -116,7 +138,11 @@
 			"depLat": 20.2506772,
 			"depLon": 85.8123424,
 			"tax": 120,
-			"address": "Miami International Airport"
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo Prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		},
 		{
 			"id": 6,
@@ -136,7 +162,11 @@
 			"depLat": 22.65204,
 			"depLon": 88.446308,
 			"tax": 120,
-			"address": "Miami International Airport"
+			"address": "Miami International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo Prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		}
 	]
 }
