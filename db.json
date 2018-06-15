@@ -188,6 +188,33 @@
 		        "desAddress": "",
 		        "orgDescription": "Chalk Turbo Prop Lounge ",
 		        "desDescription": "Access To National And Shinecock Golf Club"
+		},
+		       {
+			"id": 1,
+			"departure": "03:00 PM",
+			"arrival": "05:50 Pm",
+			"date": "2018-05-29",
+			"aircraftThumbnail": "http://4hdwallpapers.com/wp-content/uploads/2014/12/World-War-II-art-drawing-fighter-aircraft-carrier-sea-sky_1600x900.jpg",
+			"seats": 10,
+			"price": 500,
+			"aircraftInfo": "Turbo Prop, Fastest Sea Plane",
+			"aircraftDescription":"This jet aircraft is an aircraft that is powered by one or more jet engines.",
+			"orgCode": "JFK",
+			"desCode": "MIA",
+			"orgCity": "New York",
+			"desCity": "Miami",
+			"orgAirport": "John F. Kennedy International Airport",
+			"desAirport": "Miami International Airport",
+			"depLat": 40.643940,
+			"depLon": -73.782038,
+			"orgLat": 25.795865,
+			"orgLon":  -80.28704570000002,
+			"tax": 75,
+			"address":  "John F. Kennedy International Airport",
+			"orgAddress": "",
+		        "desAddress": "",
+		        "orgDescription": "Chalk Turbo prop Lounge ",
+		        "desDescription": "Access To National And Shinecock Golf Club"
 		}
 	]
 }
